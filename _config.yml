@@ -70,3 +70,6 @@ defaults:
 exclude: [README.md, LICENSE, assets/lib/README.md]
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
