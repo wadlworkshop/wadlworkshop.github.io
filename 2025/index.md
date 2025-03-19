@@ -8,6 +8,9 @@ redirect_from: "/"
 
 To be held in conjunction with [36th ACM Conference on Hypertext and Social Media (HT 2025)](https://ht.acm.org/ht2025/).
 
+September 15 - 19, 2025
+Chicago, Illinois, USA
+
 More information coming soon.
 
 Organizer contacts:
