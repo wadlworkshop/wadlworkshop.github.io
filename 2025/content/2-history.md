@@ -10,7 +10,7 @@ The most recent related workshop, WADL 2023 was held as a hybrid, [in-person/vir
 In the 2023 iteration of the conference, we received very positive feedback from participants and are therefore strongly encouraged to continue the workshop in 2025.
 Two previous WADL meetings resulted in the publication of a special issue in the IEEE TCDL Bulletin such as in 
 [2016](https://bulletin.jcdl.org/Bulletin/v13n1/papers/intro.pdf) and [2015](https://bulletin.jcdl.org/Bulletin/v11n2/papers/intro.pdf) and the workshop organizers are motivated to revitalize this effort with 
-WADL 2025. Other workshop proceedings will be openly accessible from VTechWorks\footnote{https://vtechworks.lib.vt.edu/}, Virginia Tech's institutional repository.
+WADL 2025. Other workshop proceedings will be openly accessible from [VTechWorks](https://vtechworks.lib.vt.edu/), Virginia Tech's institutional repository.
 
 A previous workshop, [WIRE](https://lazerlab.net/event/wire-workshop-working-internet-archives-research), focused on research of archival holdings and on making use of archives that preserve the
 web. The first workshop on Web Archiving and Digital Libraries, WADL 2013, led to [a summary](http://www.ctrnet.net/sites/default/files/JCDL2013WorkshopWebArchiving20130603.pdf) after a group responded to the 
