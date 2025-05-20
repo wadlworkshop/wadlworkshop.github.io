@@ -2,9 +2,7 @@
 title: Call for Papers
 nav: Call for Papers
 ---
-<img src="../../assets/wadl2025.png" width="200" alt="WADL 2025 logo" align="display:block;margin-left:auto;  margin-right:auto;" />
-
-# Web Archiving and Digital Libraries (WADL) Workshop 2025
+# Web Archiving and Digital Libraries (WADL) Workshop 2025 Call for Papers
 
 To be held in conjunction with [36th ACM Conference on Hypertext and Social Media (HT 2025)](https://ht.acm.org/ht2025/).
 
