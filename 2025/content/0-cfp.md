@@ -4,6 +4,8 @@ nav: Call for Papers
 ---
 # Web Archiving and Digital Libraries (WADL) Workshop 2025
 
+![WADL 2025 logo](assets/wadl2025.png)
+
 To be held in conjunction with [36th ACM Conference on Hypertext and Social Media (HT 2025)](https://ht.acm.org/ht2025/).
 
 * September 15 - 19, 2025
