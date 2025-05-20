@@ -3,6 +3,7 @@ title: Home
 layout: page
 redirect_from: "/"
 ---
+<img src="../../assets/wadl2025.png" width="200" alt="WADL 2025 logo" align="display:block;margin-left:auto;  margin-right:auto;" />
 
 # Web Archiving and Digital Libraries (WADL) Workshop 2025
 
