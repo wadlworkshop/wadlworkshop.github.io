@@ -9,13 +9,9 @@ redirect_from: "/"
 
 To be held in conjunction with [36th ACM Conference on Hypertext and Social Media (HT 2025)](https://ht.acm.org/ht2025/).
 
-September 15 - 19, 2025
+* September 15 - 19, 2025
+* Chicago, Illinois, USA (hybrid)
 
-Chicago, Illinois, USA
+The Web Archiving and Digital Libraries Workshop (WADL) is back! Join us in-person or online at the ACM Hypertext Conference in Chicago this September!
 
-More information coming soon.
-
-Organizer contacts:
-
-* Mat Kelly, Drexel University
-* Brenda Reyes Ayala, University of Alberta
+WADL 2025 will continue its tradition of providing a forum and collaboration platform for international leaders from academia, industry, and government to discuss challenges, and share insights, in designing and implementing concepts, tools, and standards in the realm of web archiving. Together, we will explore the integration of web archiving and digital libraries, over the complete digital resource life cycle: creation/authoring, uploading, publishing on the web, crawling/collecting, compressing, formatting, storing, preserving, analyzing, indexing, supporting access, etc.
