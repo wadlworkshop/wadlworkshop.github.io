@@ -25,8 +25,10 @@ WADL 2025 will cover all topics of interest and specifically invite contribution
 
 Submission should be in [ACM 2-column format](https://www.acm.org/publications/proceedings-template).
 
-Paper length: 3-5 pages for a 15 minute presentation
-Paper length: 1 page for 5 minute lightning talk
+## Submission Length
+
+* 3-5 pages for a 15 minute presentation
+* 1 page for 5 minute lightning talk
 
 A selection of the best papers from WADL will be invited to submit an extended version for publication in a special issue on web archiving in the [International Journal on Digital Libraries (IJDL)](https://link.springer.com/journal/799).
  
