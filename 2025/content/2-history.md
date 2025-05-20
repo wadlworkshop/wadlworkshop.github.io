@@ -6,8 +6,8 @@ nav: History
 # Past WADL Workshops
 
 * [WADL 2023](https://fox.cs.vt.edu/wadl2023.html) @ [ACM/IEEE-CS JCDL 2023](https://2023.jcdl.org/), Santa Fe, New Mexico, USA
-* [WADL 2022](https://fox.cs.vt.edu/wadl2022.html) @ online due to the pandemic
-* [WADL 2020](https://fox.cs.vt.edu/wadl2020.html) @ online due to the pandemic
+* [WADL 2022](https://fox.cs.vt.edu/wadl2022.html), online due to the pandemic
+* [WADL 2020](https://fox.cs.vt.edu/wadl2020.html), online due to the pandemic
 * [WADL 2019](https://fox.cs.vt.edu/wadl2019.html) @ [ACM/IEEE-CS JCDL 2019](https://2019.jcdl.org/), Urbana-Champaign, Illinois, USA
 * [WADL 2018](https://fox.cs.vt.edu/wadl2018.html) @ [ACM/IEEE-CS JCDL 2018](https://2018.jcdl.org), Fort Worth, Texas, USA
 * [WADL 2017](https://fox.cs.vt.edu/wadl2017.html) @ [ACM/IEEE-CS JCDL 2017](https://2017.jcdl.org), Toronto, Canada
