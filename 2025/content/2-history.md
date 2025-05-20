@@ -14,6 +14,6 @@ A previous workshop, [WIRE](https://lazerlab.net/event/wire-workshop-working-int
 web. The first workshop on Web Archiving and Digital Libraries, WADL 2013, led to [a summary](http://www.ctrnet.net/sites/default/files/JCDL2013WorkshopWebArchiving20130603.pdf) after a group responded to the 
 call for meeting as part of the JCDL 2013 workshop program. 
 
-An earlier similar workshop at a prior JCDL conference [took place in Ottawa in 2011](http://infolab.stanford.edu/wac/), partly as a result of the emergence of a [cooperative to explore web archiving](https://cs.harding.edu/wag2011/). Broader in scope but related are the annual General Assembly meetings of the International Internet Preservation Consortium (IIPC)](https://netpreserve.org/).
+An earlier similar workshop at a prior JCDL conference [took place in Ottawa in 2011](http://infolab.stanford.edu/wac/), partly as a result of the emergence of a [cooperative to explore web archiving](https://cs.harding.edu/wag2011/). Broader in scope but related are the annual General Assembly meetings of the [International Internet Preservation Consortium (IIPC)](https://netpreserve.org/).
 
 In addition, various sponsored programs have connected, like [a closely related initiative](https://library.columbia.edu/collections/web-archives.html) funded by the Andrew W. Mellon Foundation.
