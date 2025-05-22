@@ -1,4 +1,4 @@
-This is th repo for the WADL 2025 Workshop at ACM Hypertext 2025.
+This is th repo for the WADL 2025 Workshop at ACM Hypertext 2025. See [https://wadlworkshop.github.io](https://wadlworkshop.github.io/) for more info.
 
 # Timeline
 
