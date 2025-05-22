@@ -32,7 +32,7 @@ Submission should be in [ACM 2-column format](https://www.acm.org/publications/p
 
 A selection of the best papers from WADL will be invited to submit an extended version for publication in a special issue on web archiving in the [International Journal on Digital Libraries (IJDL)](https://link.springer.com/journal/799).
  
-* Due date: TBD
-* Notifications: TBD
+* Due date: July 6, 2025
+* Notifications: August 3, 2025
  
 Submit should be made via [Easychair](https://easychair.org/my/conference?conf=wadl2025).
