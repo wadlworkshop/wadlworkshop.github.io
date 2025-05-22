@@ -20,7 +20,7 @@
 <meta property="og:site_name" content="{{ site.title | escape }}" />
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:image" content="https://wadlworkshop.github.io/assets/wadlpromo.pn">
+<meta property="og:image" content="https://wadlworkshop.github.io/assets/wadlpromo.png">
 <!-- schema.org JSON-LD -->
 <script type="application/ld+json">{ "@context":"http://schema.org", "@type":"WebPage", "headline":"{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}", "author": { "@type":"Person", "name":"{{ site.author | escape }}"}, "description":"{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}", {% if site.featured-image %}"image": "{{ site.featured-image | absolute_url }}",{% endif %} "url":"{{ page.url | absolute_url }}" }</script>
 
