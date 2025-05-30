@@ -35,4 +35,4 @@ A selection of the best papers from WADL will be invited to submit an extended v
 * Due date: July 6, 2025
 * Notifications: August 3, 2025
  
-Submit should be made via [Easychair](https://easychair.org/my/conference?conf=wadl2025).
+Submit should be made via [EasyChair](https://easychair.org/my/conference?conf=wadl2025).
