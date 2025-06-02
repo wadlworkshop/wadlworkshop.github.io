@@ -15,7 +15,7 @@ The 2025 iteration of the WADL workshop is being organized by:
 
 * Sumitra Duncan (Frick Art Reference Library)
 * Joshua Finnell (Colgate University)
-* Shawn Jones (Los Alamos National Laboratory)
+* Shawn Jones (Google)
 * Lauren Ko (University of North Texas Libraries)
 * Michael Nelson (Old Dominion University)
 * Alexander Nwala (College of William & Mary)
