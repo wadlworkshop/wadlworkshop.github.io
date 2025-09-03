@@ -9,7 +9,7 @@ redirect_from: "/"
 
 To be held in conjunction with [36th ACM Conference on Hypertext and Social Media (HT 2025)](https://ht.acm.org/ht2025/).
 
-* September 15 - 19, 2025
+* September 15, 2025
 * Chicago, Illinois, USA (hybrid)
 
 The Web Archiving and Digital Libraries Workshop (WADL) is back! Join us in-person or online at the ACM Hypertext Conference in Chicago this September!
