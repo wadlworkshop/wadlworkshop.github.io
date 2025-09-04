@@ -6,18 +6,65 @@ nav: Schedule
 
 **Central Time, Sept 15, 2025**
 
-| Time                          | Session                                                                 |
-|-------------------------------|-------------------------------------------------------------------------|
-| 9:00 am - 9:20 am             | Opening Remarks and Technical Setup                                     |
-| 9:20 am - 9:40 am             | **Paper:** *Coming Back Differently: A Case Study of Near Death Experiences of Webpages* |
-| 9:40 am - 10:00 am            | **Paper:** *Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends* |
-| 10:00 am - 10:20 am           | **Paper:** *Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections* |
-| 10:20 am - 10:30 am           | Transition Buffer                                                       |
-| 10:30 am - 11:00 am           | Coffee Break *(Hosted by ACM Hypertext)*                                |
-| 11:00 am - 11:05 am           | Session Restart & Quick Welcome Back                                    |
-| 11:05 am - 11:25 am           | **Paper:** *Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web* |
-| 11:25 am - 11:45 am           | **Invited Talk:** *Detecting and Diagnosing Errors in Replaying Archived Web Pages* |
-| 11:45 am - 11:55 am (flexible)| Open Lightning Talks *(Drop-in, short-format contributions)*             |
-| 11:55 am - 12:10 pm (flexible)| Community Discussion: *The Future of WADL*                              |
-| 12:10 pm - 12:30 pm (flexible)| Workshop Wrap-Up & Closing Reflections                                  |
-| 12:30 pm onward               | Lunch *(Hosted by ACM Hypertext)*  
+<table class="table table-striped table-bordered">
+  <thead>
+    <tr>
+      <th style="width: 20%;">Time</th>
+      <th>Session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00 am - 9:20 am</td>
+      <td>Opening Remarks and Technical Setup</td>
+    </tr>
+    <tr>
+      <td>9:20 am - 9:40 am</td>
+      <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em></td>
+    </tr>
+    <tr>
+      <td>9:40 am - 10:00 am</td>
+      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em></td>
+    </tr>
+    <tr>
+      <td>10:00 am - 10:20 am</td>
+      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em></td>
+    </tr>
+    <tr>
+      <td>10:20 am - 10:30 am</td>
+      <td>Transition Buffer</td>
+    </tr>
+    <tr>
+      <td>10:30 am - 11:00 am</td>
+      <td>Coffee Break <em>(Hosted by ACM Hypertext)</em></td>
+    </tr>
+    <tr>
+      <td>11:00 am - 11:05 am</td>
+      <td>Session Restart &amp; Quick Welcome Back</td>
+    </tr>
+    <tr>
+      <td>11:05 am - 11:25 am</td>
+      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em></td>
+    </tr>
+    <tr>
+      <td>11:25 am - 11:45 am</td>
+      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em></td>
+    </tr>
+    <tr>
+      <td>11:45 am - 11:55 am (flexible)</td>
+      <td>Open Lightning Talks <em>(Drop-in, short-format contributions)</em></td>
+    </tr>
+    <tr>
+      <td>11:55 am - 12:10 pm (flexible)</td>
+      <td>Community Discussion: <em>The Future of WADL</em></td>
+    </tr>
+    <tr>
+      <td>12:10 pm - 12:30 pm (flexible)</td>
+      <td>Workshop Wrap-Up &amp; Closing Reflections</td>
+    </tr>
+    <tr>
+      <td>12:30 pm onward</td>
+      <td>Lunch <em>(Hosted by ACM Hypertext)</em></td>
+    </tr>
+  </tbody>
+</table>
