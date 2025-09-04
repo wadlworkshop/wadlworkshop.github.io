@@ -9,7 +9,7 @@ nav: Schedule
 <table class="table table-striped table-bordered">
   <thead>
     <tr>
-      <th style="width: 20%;">Time</th>
+      <th style="width: 30%;">Time</th>
       <th>Session</th>
     </tr>
   </thead>
