@@ -4,7 +4,7 @@ nav: Schedule
 ---
 # Workshop Schedule
 
-**Central Time, Sept 15, 2025**
+**Central U.S. Time, September 15, 2025**
 
 <table class="table table-striped table-bordered">
   <thead>
