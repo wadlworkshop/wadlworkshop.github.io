@@ -26,11 +26,11 @@ Zoom Link: https://tinyurl.com/4p3kc89a
     </tr>
     <tr>
       <td>9:40 am - 10:00 am</td>
-      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by [Rochana R. Obadage](https://rochanaro.github.io/), [Lamia Salsabil](https://liyalamia.github.io/Portfolio/), Sawood Alam, [William A. Ingram](https://waingram.github.io/), [Bipasha Banarjee](https://bipasha-banerjee.github.io/), [Edward A. Fox](https://fox.cs.vt.edu/), and [Jian Wu](https://fanchyna.wixsite.com/jianwu)</td>
+      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by <a href="https://rochanaro.github.io/">Rochana R. Obadage</a>, <a href="https://liyalamia.github.io/Portfolio/">Lamia Salsabil</a>, Sawood Alam, <a href="https://waingram.github.io/">William A. Ingram</a>, <a href="https://bipasha-banerjee.github.io/">Bipasha Banarjee</a>, <a href="https://fox.cs.vt.edu/">Edward A. Fox</a>, and <a href="https://fanchyna.wixsite.com/jianwu">Jian Wu</a></td>
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
-      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by [Jonathan Schler](https://u.cs.biu.ac.il/~schlerj), [Nati Ben-Gigi](https://www.linkedin.com/in/natibg/), Binyamin Katzoff, and [Maayan Geffet-Tamir](https://is.biu.ac.il/maayanz)</td>
+      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by <a href="https://u.cs.biu.ac.il/~schlerj">Jonathan Schler</a>, <a href="https://www.linkedin.com/in/natibg/">Nati Ben-Gigi</a>, Binyamin Katzoff, and <a href="https://is.biu.ac.il/maayanz">Maayan Geffet-Tamir</a></td>
     </tr>
     <tr>
       <td>10:20 am - 10:30 am</td>
@@ -50,7 +50,7 @@ Zoom Link: https://tinyurl.com/4p3kc89a
     </tr>
     <tr>
       <td>11:25 am - 11:45 am</td>
-      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by [Jingyuan Zhu](https://jingyzhu.github.io/) and [Harsha V. Madhyastha](https://www.harsha.usc.edu/)</td>
+      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by <a href="https://jingyzhu.github.io/">Jingyuan Zhu</a> and <a href="https://www.harsha.usc.edu/">Harsha V. Madhyastha</a></td>
     </tr>
     <tr>
       <td>11:45 am - 11:55 am (flexible)</td>
