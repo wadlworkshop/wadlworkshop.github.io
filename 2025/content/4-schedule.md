@@ -50,7 +50,7 @@ Zoom Link: https://tinyurl.com/4p3kc89a
     </tr>
     <tr>
       <td>11:25 am - 11:45 am</td>
-      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by Jinguyan Zhu and Harsha V. Madhyastha</td>
+      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by Jingyuan Zhu and Harsha V. Madhyastha</td>
     </tr>
     <tr>
       <td>11:45 am - 11:55 am (flexible)</td>
