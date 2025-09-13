@@ -49,6 +49,7 @@ url:
 # baseurl is your github repository's name prefixed with a /
 baseurl:
 
+timezone: America/Chicago
 
 ##########
 # ROBOTS EXCLUDE [optional!]
