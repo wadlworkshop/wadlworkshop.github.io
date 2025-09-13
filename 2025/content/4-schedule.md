@@ -26,7 +26,7 @@ Zoom Link: https://tinyurl.com/4p3kc89a
     </tr>
     <tr>
       <td>9:40 am - 10:00 am</td>
-      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by <a href="https://rochanaro.github.io/">Rochana R. Obadage</a>, <a href="https://liyalamia.github.io/Portfolio/">Lamia Salsabil</a>, Sawood Alam, <a href="https://waingram.github.io/">William A. Ingram</a>, <a href="https://bipasha-banerjee.github.io/">Bipasha Banarjee</a>, <a href="https://fox.cs.vt.edu/">Edward A. Fox</a>, and <a href="https://fanchyna.wixsite.com/jianwu">Jian Wu</a></td>
+      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by <a href="https://rochanaro.github.io/">Rochana R. Obadage</a>, <a href="https://liyalamia.github.io/Portfolio/">Lamia Salsabil</a>, <a href="https://x.com/ibnesayeed">Sawood Alam</a>, <a href="https://waingram.github.io/">William A. Ingram</a>, <a href="https://bipasha-banerjee.github.io/">Bipasha Banarjee</a>, <a href="https://fox.cs.vt.edu/">Edward A. Fox</a>, and <a href="https://fanchyna.wixsite.com/jianwu">Jian Wu</a></td>
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
@@ -46,7 +46,7 @@ Zoom Link: https://tinyurl.com/4p3kc89a
     </tr>
     <tr>
       <td>11:05 am - 11:25 am</td>
-      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em> by Sawood Alam and Mark Graham</td>
+      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em> by <a href="https://x.com/ibnesayeed">Sawood Alam</a> and <a href="https://x.com/markgraham">Mark Graham</a></td>
     </tr>
     <tr>
       <td>11:25 am - 11:45 am</td>
