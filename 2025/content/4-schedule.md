@@ -26,11 +26,11 @@ Zoom Link: https://tinyurl.com/4p3kc89a
     </tr>
     <tr>
       <td>9:40 am - 10:00 am</td>
-      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by Rochana R. Obadage, Lamia Salsabil, Sawood Alam, William A. Ingram, Bipasha Banarjee, Edward A. Fox, and Jian Wu</td>
+      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by [Rochana R. Obadage](https://rochanaro.github.io/), [Lamia Salsabil](https://liyalamia.github.io/Portfolio/), Sawood Alam, [William A. Ingram](https://waingram.github.io/), [Bipasha Banarjee](https://bipasha-banerjee.github.io/), [Edward A. Fox](https://fox.cs.vt.edu/), and [Jian Wu](https://fanchyna.wixsite.com/jianwu)</td>
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
-      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by Jonathan Schler, Nati Ben-Gigi, Binyamin Katzoff, and Maayan Geffet-Tamir</td>
+      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by [Jonathan Schler](https://u.cs.biu.ac.il/~schlerj), [Nati Ben-Gigi](https://www.linkedin.com/in/natibg/), Binyamin Katzoff, and [Maayan Geffet-Tamir](https://is.biu.ac.il/maayanz)</td>
     </tr>
     <tr>
       <td>10:20 am - 10:30 am</td>
@@ -50,7 +50,7 @@ Zoom Link: https://tinyurl.com/4p3kc89a
     </tr>
     <tr>
       <td>11:25 am - 11:45 am</td>
-      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by Jingyuan Zhu and Harsha V. Madhyastha</td>
+      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by [Jingyuan Zhu](https://jingyzhu.github.io/) and [Harsha V. Madhyastha](https://www.harsha.usc.edu/)</td>
     </tr>
     <tr>
       <td>11:45 am - 11:55 am (flexible)</td>
