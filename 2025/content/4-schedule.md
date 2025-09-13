@@ -4,6 +4,96 @@ nav: Schedule
 ---
 # Workshop Schedule
 
+<script>
+(function () {
+  const timeEls = Array.from(document.querySelectorAll('time.event-time'));
+  if (!timeEls.length) return;
+
+  const tzSelect = document.getElementById('tz-select');
+  const tzResetBtn = document.getElementById('tz-reset');
+  const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+  // Populate timezone list (modern browsers)
+  function getAllTimeZones() {
+    if (Intl.supportedValuesOf && Intl.supportedValuesOf('timeZone')) {
+      return Intl.supportedValuesOf('timeZone');
+    }
+    // Fallback (tiny curated list)
+    return [
+      'UTC','America/New_York','America/Chicago','America/Denver','America/Los_Angeles',
+      'Europe/London','Europe/Paris','Europe/Berlin','Europe/Madrid',
+      'Asia/Dubai','Asia/Kolkata','Asia/Singapore','Asia/Tokyo','Australia/Sydney'
+    ];
+  }
+
+  function formatOptions(style) {
+    // Two presets: "long" (weekday/date) and "short"
+    if (style === 'short') {
+      return { hour: 'numeric', minute: '2-digit', timeZoneName: 'short' };
+    }
+    return {
+      weekday: 'short', year: 'numeric', month: 'short', day: 'numeric',
+      hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+    };
+  }
+
+  function renderTimes(tz) {
+    for (const el of timeEls) {
+      const iso = el.getAttribute('data-iso');
+      const style = el.getAttribute('data-format') || 'long';
+      if (!iso) continue;
+
+      // Parse ISO with offset/UTC: safe with built-in Date
+      const d = new Date(iso);
+      if (isNaN(d)) continue;
+
+      const fmt = new Intl.DateTimeFormat(undefined, { ...formatOptions(style), timeZone: tz });
+      const text = fmt.format(d);
+
+      // Update text content and machine-readable datetime attribute
+      el.textContent = text;
+      try {
+        // For machine readability, store the localized version in title as a hint
+        el.setAttribute('title', text + ' (' + tz + ')');
+        el.setAttribute('data-shown-tz', tz);
+        // Keep datetime attribute in UTC for semantics
+        el.setAttribute('datetime', d.toISOString());
+      } catch(e) {}
+    }
+  }
+
+  // Populate the selector
+  const tzs = getAllTimeZones();
+  const frag = document.createDocumentFragment();
+  tzs.forEach(z => {
+    const opt = document.createElement('option');
+    opt.value = z; opt.textContent = z;
+    frag.appendChild(opt);
+  });
+  tzSelect.appendChild(frag);
+
+  // Load preference from localStorage or use user tz
+  const saved = localStorage.getItem('preferredTZ') || userTZ || 'UTC';
+  if (tzs.includes(saved)) tzSelect.value = saved;
+
+  // Initial render
+  renderTimes(tzSelect.value);
+
+  // Handlers
+  tzSelect.addEventListener('change', () => {
+    const tz = tzSelect.value;
+    localStorage.setItem('preferredTZ', tz);
+    renderTimes(tz);
+  });
+
+  tzResetBtn.addEventListener('click', () => {
+    tzSelect.value = userTZ || 'UTC';
+    localStorage.setItem('preferredTZ', tzSelect.value);
+    renderTimes(tzSelect.value);
+  });
+})();
+</script>
+
 Zoom Link: https://tinyurl.com/4p3kc89a
 
 **Central U.S. Time, September 15, 2025**
