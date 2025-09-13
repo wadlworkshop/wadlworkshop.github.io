@@ -17,7 +17,7 @@ Zoom Link: https://tinyurl.com/4p3kc89a
   </thead>
   <tbody>
     <tr>
-      <td>9:00 am - 9:20 am</td>
+      <td><time data-iso="2025-09-15T09:09:00-06:00" date-format="long">9:00 am - 9:20 am</time></td>
       <td>Opening Remarks and Technical Setup</td>
     </tr>
     <tr>
