@@ -20,15 +20,15 @@ nav: Schedule
     </tr>
     <tr>
       <td>9:20 am - 9:40 am</td>
-      <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em></td>
+      <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em> by Lesley Frew, Michael Nelson, and Michele Weigle</td>
     </tr>
     <tr>
       <td>9:40 am - 10:00 am</td>
-      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em></td>
+      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by Rochana R. Obadage, Lamia Salsabil, Sawood Alam, William A. Ingram, Bipasha Banarjee, Edward A. Fox, and Jian Wu</td>
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
-      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em></td>
+      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by Jonathan Schler, Nati Ben-Gigi, Binyamin Katzoff, and Maayan Geffet-Tamir</td>
     </tr>
     <tr>
       <td>10:20 am - 10:30 am</td>
@@ -44,11 +44,11 @@ nav: Schedule
     </tr>
     <tr>
       <td>11:05 am - 11:25 am</td>
-      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em></td>
+      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em> by Sawood Alam and Mark Graham</td>
     </tr>
     <tr>
       <td>11:25 am - 11:45 am</td>
-      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em></td>
+      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by Jinguyan Zhu and Harsha V. Madhyastha</td>
     </tr>
     <tr>
       <td>11:45 am - 11:55 am (flexible)</td>
