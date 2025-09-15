@@ -4,7 +4,7 @@ nav: Accepted Papers
 ---
 # Web Archiving and Digital Libraries (WADL) Workshop 2025 Accepted Papers
 
-The following paper submissions have been peer reviewed and accepted to be presented at the WADL Workshop.
+The following paper submissions were peer reviewed and presented at the WADL Workshop.
 
 * Lesley Frew, Michael Nelson, and Michele Weigle, "Coming Back Differently: A Case Study of Near Death Experiences of Webpages" (<a href="../papers/WADL2025_paper_5496.pdf">PDF</a>)
 * Rochana R. Obadage, Lamia Salsabil, Sawood Alam, William A. Ingram, Bipasha Banarjee, Edward A. Fox, and Jian Wu "Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends" (<a href="../papers/WADL2025_paper_2113.pdf">PDF</a>)
