@@ -4,8 +4,6 @@ nav: Schedule
 ---
 # Workshop Schedule
 
-Zoom Link: <a href="https://tinyurl.com/4p3kc89a">https://tinyurl.com/4p3kc89a</a>
-
 **Central U.S. Time, September 15, 2025**
 
 <table class="table table-striped table-bordered">
