@@ -31,7 +31,7 @@ Zoom Link: <a href="https://tinyurl.com/4p3kc89a">https://tinyurl.com/4p3kc89a</
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
-      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by <a href="https://u.cs.biu.ac.il/~schlerj">Jonathan Schler</a>, <a href="https://www.linkedin.com/in/natibg/">Nati Ben-Gigi</a>, Binyamin Katzoff, and <a href="https://is.biu.ac.il/maayanz">Maayan Geffet-Tamir</a></td>
+      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by <a href="https://www.hit.ac.il/staff/97096-schler-jonathan">Jonathan Schler</a>, <a href="https://www.linkedin.com/in/natibg/">Nati Ben-Gigi</a>, Binyamin Katzoff, and <a href="https://is.biu.ac.il/maayanz">Maayan Geffet-Tamir</a></td>
     </tr>
     <tr>
       <td>10:20 am - 10:30 am</td>
