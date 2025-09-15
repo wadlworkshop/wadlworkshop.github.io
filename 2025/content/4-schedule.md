@@ -22,7 +22,8 @@ Zoom Link: <a href="https://tinyurl.com/4p3kc89a">https://tinyurl.com/4p3kc89a</
     </tr>
     <tr>
       <td>9:20 am - 9:40 am</td>
-      <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em> by <a href="https://lesleyodu.github.io/">Lesley Frew</a>, <a href="https://www.cs.odu.edu/~mln/">Michael Nelson</a>, and <a href="https://weiglemc.github.io/">Michele Weigle</a></td>
+      <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em> by <a href="https://lesleyodu.github.io/">Lesley Frew</a>, <a href="https://www.cs.odu.edu/~mln/">Michael Nelson</a>, and <a href="https://weiglemc.github.io/">Michele Weigle</a> (<a href="https://www.loom.com/share/4adf5ebea97e4891bc715a90ab6846c6?sid=fc5fe97b-2460-40c3-9ebc-3f8e9a03bd49">recording</a>)
+</td>
     </tr>
     <tr>
       <td>9:40 am - 10:00 am</td>
