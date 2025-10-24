@@ -1,1 +1,25 @@
 /* add your tweaks here! */
+.badge {
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 15px;
+  border: 1px solid transparent;
+  box-shadow: 0px 2px 5px #ccc;
+}
+.badge:hover {cursor: pointer;}
+.youtube {
+    background-color: red;
+}
+.youtube:hover {
+    background-color: #bb0000;
+    border: 1px outset #990000; 
+}
+.ia {
+    background-color: blue;
+}
+.ia:hover {
+    background-color: #0000bb;
+    border: 1px outset #000099; 
+}
+.badge a {color: white; text-decoration: none;}
