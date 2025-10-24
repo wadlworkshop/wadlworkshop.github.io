@@ -22,18 +22,29 @@ nav: Schedule
     <tr>
       <td>9:20 am - 9:40 am</td>
       <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em> by <a href="https://lesleyodu.github.io/">Lesley Frew</a>, <a href="https://www.cs.odu.edu/~mln/">Michael Nelson</a>, and <a href="https://weiglemc.github.io/">Michele Weigle</a> (<a href="https://www.loom.com/share/4adf5ebea97e4891bc715a90ab6846c6?sid=fc5fe97b-2460-40c3-9ebc-3f8e9a03bd49">recording</a>)
-      <br /><strong>Recording: </strong>
-      <span class="badge ia"><a href="https://archive.org/loremipsum" target="_blank">Internet Archive</a></span>
-      <span class="badge youtube"><a href="https://youtube.com/loremipsum" target="_blank">YouTube</a></span>
+<br /><strong>Recording: </strong>
+      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_SchlerEtAl.mp4" target="_blank">Internet Archive</a></span>
+      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=BdwBlEtkeT8" target="_blank">YouTube</a></span>   
 </td>
     </tr>
     <tr>
       <td>9:40 am - 10:00 am</td>
-      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by <a href="https://rochanaro.github.io/">Rochana R. Obadage</a>, <a href="https://liyalamia.github.io/Portfolio/">Lamia Salsabil</a>, <a href="https://x.com/ibnesayeed">Sawood Alam</a>, <a href="https://waingram.github.io/">William A. Ingram</a>, <a href="https://bipasha-banerjee.github.io/">Bipasha Banarjee</a>, <a href="https://fox.cs.vt.edu/">Edward A. Fox</a>, and <a href="https://fanchyna.wixsite.com/jianwu">Jian Wu</a></td>
+      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by <a href="https://rochanaro.github.io/">Rochana R. Obadage</a>, <a href="https://liyalamia.github.io/Portfolio/">Lamia Salsabil</a>, <a href="https://x.com/ibnesayeed">Sawood Alam</a>, <a href="https://waingram.github.io/">William A. Ingram</a>, <a href="https://bipasha-banerjee.github.io/">Bipasha Banarjee</a>, <a href="https://fox.cs.vt.edu/">Edward A. Fox</a>, and <a href="https://fanchyna.wixsite.com/jianwu">Jian Wu</a>
+      <br /><strong>Recording: </strong>
+      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_ObadageEtAl.mp4" target="_blank">Internet Archive</a></span>
+      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=_yltfghdoY4" target="_blank">YouTube</a></span>
+      </td>
+      
+      </td>
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
-      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by <a href="https://www.hit.ac.il/staff/97096-schler-jonathan">Jonathan Schler</a>, <a href="https://www.linkedin.com/in/natibg/">Nati Ben-Gigi</a>, Binyamin Katzoff, and <a href="https://is.biu.ac.il/maayanz">Maayan Geffet-Tamir</a></td>
+      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by <a href="https://www.hit.ac.il/staff/97096-schler-jonathan">Jonathan Schler</a>, <a href="https://www.linkedin.com/in/natibg/">Nati Ben-Gigi</a>, Binyamin Katzoff, and <a href="https://is.biu.ac.il/maayanz">Maayan Geffet-Tamir</a>
+      
+      <br /><strong>Recording: </strong>
+      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_SchlerEtAl.mp4" target="_blank">Internet Archive</a></span>
+      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=xHUiTDhZaeI" target="_blank">YouTube</a></span>
+      </td>
     </tr>
     <tr>
       <td>10:20 am - 10:30 am</td>
@@ -49,11 +60,20 @@ nav: Schedule
     </tr>
     <tr>
       <td>11:05 am - 11:25 am</td>
-      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em> by <a href="https://x.com/ibnesayeed">Sawood Alam</a> and <a href="https://x.com/markgraham">Mark Graham</a></td>
+      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em> by <a href="https://x.com/ibnesayeed">Sawood Alam</a> and <a href="https://x.com/markgraham">Mark Graham</a>
+      <br /><strong>Recording: </strong>
+      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_AlamAndGraham.mp4" target="_blank">Internet Archive</a></span>
+      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=cp4vJqZfyuo" target="_blank">YouTube</a></span>
+      </td>
     </tr>
     <tr>
       <td>11:25 am - 11:45 am</td>
-      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by <a href="https://jingyzhu.github.io/">Jingyuan Zhu</a> and <a href="https://www.harsha.usc.edu/">Harsha V. Madhyastha</a></td>
+      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by <a href="https://jingyzhu.github.io/">Jingyuan Zhu</a> and <a href="https://www.harsha.usc.edu/">Harsha V. Madhyastha</a>
+      
+      <br /><strong>Recording: </strong>
+      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_ZhuAndMadhyastha.mp4" target="_blank">Internet Archive</a></span>
+      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=HAy5as0hqt8" target="_blank">YouTube</a></span>   
+      </td>
     </tr>
     <tr>
       <td>11:45 am - 11:55 am (flexible)</td>
