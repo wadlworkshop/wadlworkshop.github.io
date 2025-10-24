@@ -16,14 +16,15 @@ nav: Schedule
   <tbody>
     <tr>
       <td><time data-iso="2025-09-15T09:09:00-06:00" date-format="long">9:00 am - 9:20 am</time></td>
-      <td>Opening Remarks and Technical Setup (<a href="https://docs.google.com/presentation/d/17LVSrXOaUV9m39J2K4TLafkN-6SnC35azs1CHsfGA78/edit?usp=sharing">slides</a>)<br />
-      <span class="badge ia"><a href="https://archive.org/loremipsum" target="_blank">Internet Archive</a></span>
-      <span class="badge youtube"><a href="https://youtube.com/loremipsum" target="_blank">YouTube</a></span>
+      <td>Opening Remarks and Technical Setup (<a href="https://docs.google.com/presentation/d/17LVSrXOaUV9m39J2K4TLafkN-6SnC35azs1CHsfGA78/edit?usp=sharing">slides</a>)
   </td>
     </tr>
     <tr>
       <td>9:20 am - 9:40 am</td>
       <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em> by <a href="https://lesleyodu.github.io/">Lesley Frew</a>, <a href="https://www.cs.odu.edu/~mln/">Michael Nelson</a>, and <a href="https://weiglemc.github.io/">Michele Weigle</a> (<a href="https://www.loom.com/share/4adf5ebea97e4891bc715a90ab6846c6?sid=fc5fe97b-2460-40c3-9ebc-3f8e9a03bd49">recording</a>)
+      <br />Recording: 
+      <span class="badge ia"><a href="https://archive.org/loremipsum" target="_blank">Internet Archive</a></span>
+      <span class="badge youtube"><a href="https://youtube.com/loremipsum" target="_blank">YouTube</a></span>
 </td>
     </tr>
     <tr>
