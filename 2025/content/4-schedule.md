@@ -33,8 +33,6 @@ nav: Schedule
       <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_ObadageEtAl.mp4" target="_blank">Internet Archive</a></span>
       <span class="badge youtube"><a href="https://www.youtube.com/watch?v=_yltfghdoY4" target="_blank">YouTube</a></span>
       </td>
-      
-      </td>
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
