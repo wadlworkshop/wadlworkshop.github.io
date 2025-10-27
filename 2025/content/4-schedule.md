@@ -15,36 +15,51 @@ nav: Schedule
   </thead>
   <tbody>
     <tr>
-      <td><time data-iso="2025-09-15T09:09:00-06:00" date-format="long">9:00 am - 9:20 am</time></td>
-      <td>Opening Remarks and Technical Setup (<a href="https://docs.google.com/presentation/d/17LVSrXOaUV9m39J2K4TLafkN-6SnC35azs1CHsfGA78/edit?usp=sharing">slides</a>)</td>
+      <td><time datetime="2025-09-15T09:09:00-06:00">9:00 am - 9:20 am</time></td>
+      <td>Opening Remarks and Technical Setup (<a href="https://docs.google.com/presentation/d/17LVSrXOaUV9m39J2K4TLafkN-6SnC35azs1CHsfGA78/edit?usp=sharing" target="_blank" rel="noopener noreferrer">slides</a>)</td>
     </tr>
     <tr>
       <td>9:20 am - 9:40 am</td>
-      <td><strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em> by <a href="https://lesleyodu.github.io/">Lesley Frew</a>, <a href="https://www.cs.odu.edu/~mln/">Michael Nelson</a>, and <a href="https://weiglemc.github.io/">Michele Weigle</a>
-<br /><strong>Recording: </strong>
-      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_SchlerEtAl.mp4" target="_blank">Internet Archive</a></span>
-      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=BdwBlEtkeT8" target="_blank">YouTube</a></span><br />
-      <span class="badge slides"><a href="../slides/WADL2025_slides_5496.pdf">Slides</a>
-</td>
+      <td>
+        <strong>Paper:</strong> <em>Coming Back Differently: A Case Study of Near Death Experiences of Webpages</em> by 
+        <a href="https://lesleyodu.github.io/">Lesley Frew</a>, 
+        <a href="https://www.cs.odu.edu/~mln/">Michael Nelson</a>, and 
+        <a href="https://weiglemc.github.io/">Michele Weigle</a><br>
+        <strong>Recording: </strong>
+        <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_SchlerEtAl.mp4" target="_blank" rel="noopener noreferrer">Internet Archive</a></span>
+        <span class="badge youtube"><a href="https://www.youtube.com/watch?v=BdwBlEtkeT8" target="_blank" rel="noopener noreferrer">YouTube</a></span><br>
+        <span class="badge slides"><a href="../slides/WADL2025_slides_5496.pdf" target="_blank" rel="noopener noreferrer">Slides</a></span>
+      </td>
     </tr>
     <tr>
       <td>9:40 am - 10:00 am</td>
-      <td><strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by <a href="https://rochanaro.github.io/">Rochana R. Obadage</a>, <a href="https://liyalamia.github.io/Portfolio/">Lamia Salsabil</a>, <a href="https://x.com/ibnesayeed">Sawood Alam</a>, <a href="https://waingram.github.io/">William A. Ingram</a>, <a href="https://bipasha-banerjee.github.io/">Bipasha Banarjee</a>, <a href="https://fox.cs.vt.edu/">Edward A. Fox</a>, and <a href="https://fanchyna.wixsite.com/jianwu">Jian Wu</a>
-      <br /><strong>Recording: </strong>
-      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_ObadageEtAl.mp4" target="_blank">Internet Archive</a></span>
-      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=_yltfghdoY4" target="_blank">YouTube</a></span><br />
-      <span class="badge slides"><a href="../slides/WADL2025_slides_2113.pdf">Slides</a>
-        
+      <td>
+        <strong>Paper:</strong> <em>Toward Robust URL Extraction for Open Science: A Study of arXiv File Formats and Temporal Trends</em> by 
+        <a href="https://rochanaro.github.io/">Rochana R. Obadage</a>, 
+        <a href="https://liyalamia.github.io/Portfolio/">Lamia Salsabil</a>, 
+        <a href="https://x.com/ibnesayeed">Sawood Alam</a>, 
+        <a href="https://waingram.github.io/">William A. Ingram</a>, 
+        <a href="https://bipasha-banerjee.github.io/">Bipasha Banarjee</a>, 
+        <a href="https://fox.cs.vt.edu/">Edward A. Fox</a>, and 
+        <a href="https://fanchyna.wixsite.com/jianwu">Jian Wu</a><br>
+        <strong>Recording: </strong>
+        <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_ObadageEtAl.mp4" target="_blank" rel="noopener noreferrer">Internet Archive</a></span>
+        <span class="badge youtube"><a href="https://www.youtube.com/watch?v=_yltfghdoY4" target="_blank" rel="noopener noreferrer">YouTube</a></span><br>
+        <span class="badge slides"><a href="../slides/WADL2025_slides_2113.pdf" target="_blank" rel="noopener noreferrer">Slides</a></span>
       </td>
     </tr>
     <tr>
       <td>10:00 am - 10:20 am</td>
-      <td><strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by <a href="https://www.hit.ac.il/staff/97096-schler-jonathan">Jonathan Schler</a>, <a href="https://www.linkedin.com/in/natibg/">Nati Ben-Gigi</a>, Binyamin Katzoff, and <a href="https://is.biu.ac.il/maayanz">Maayan Geffet-Tamir</a>
-      
-      <br /><strong>Recording: </strong>
-      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_SchlerEtAl.mp4" target="_blank">Internet Archive</a></span>
-      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=xHUiTDhZaeI" target="_blank">YouTube</a></span><br />
-      <span class="badge slides"><a href="../slides/WADL2025_slides_0005.pdf">Slides</a>
+      <td>
+        <strong>Paper:</strong> <em>Medieval Citation Networks as Digital Hyperlinks: Transformer-Based Authorship Attribution in Historical Text Collections</em> by 
+        <a href="https://www.hit.ac.il/staff/97096-schler-jonathan">Jonathan Schler</a>, 
+        <a href="https://www.linkedin.com/in/natibg/">Nati Ben-Gigi</a>, 
+        Binyamin Katzoff, and 
+        <a href="https://is.biu.ac.il/maayanz">Maayan Geffet-Tamir</a><br>
+        <strong>Recording: </strong>
+        <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_SchlerEtAl.mp4" target="_blank" rel="noopener noreferrer">Internet Archive</a></span>
+        <span class="badge youtube"><a href="https://www.youtube.com/watch?v=xHUiTDhZaeI" target="_blank" rel="noopener noreferrer">YouTube</a></span><br>
+        <span class="badge slides"><a href="../slides/WADL2025_slides_0005.pdf" target="_blank" rel="noopener noreferrer">Slides</a></span>
       </td>
     </tr>
     <tr>
@@ -61,22 +76,26 @@ nav: Schedule
     </tr>
     <tr>
       <td>11:05 am - 11:25 am</td>
-      <td><strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em> by <a href="https://x.com/ibnesayeed">Sawood Alam</a> and <a href="https://x.com/markgraham">Mark Graham</a>
-      <br /><strong>Recording: </strong>
-      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_AlamAndGraham.mp4" target="_blank">Internet Archive</a></span>
-      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=cp4vJqZfyuo" target="_blank">YouTube</a></span><br />
-      <span class="badge slides"><a href="../slides/WADL2025_slides_7643.pdf">Slides</a>
+      <td>
+        <strong>Paper:</strong> <em>Lost, but Preserved - A Web Archiving Perspective on the Ephemeral Web</em> by 
+        <a href="https://x.com/ibnesayeed">Sawood Alam</a> and 
+        <a href="https://x.com/markgraham">Mark Graham</a><br>
+        <strong>Recording: </strong>
+        <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_AlamAndGraham.mp4" target="_blank" rel="noopener noreferrer">Internet Archive</a></span>
+        <span class="badge youtube"><a href="https://www.youtube.com/watch?v=cp4vJqZfyuo" target="_blank" rel="noopener noreferrer">YouTube</a></span><br>
+        <span class="badge slides"><a href="../slides/WADL2025_slides_7643.pdf" target="_blank" rel="noopener noreferrer">Slides</a></span>
       </td>
     </tr>
     <tr>
       <td>11:25 am - 11:45 am</td>
-      <td><strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by <a href="https://jingyzhu.github.io/">Jingyuan Zhu</a> and <a href="https://www.harsha.usc.edu/">Harsha V. Madhyastha</a>
-      
-      <br /><strong>Recording: </strong>
-      <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_ZhuAndMadhyastha.mp4" target="_blank">Internet Archive</a></span>
-      <span class="badge youtube"><a href="https://www.youtube.com/watch?v=HAy5as0hqt8" target="_blank">YouTube</a></span> 
-      <br />
-      <span class="badge slides"><a href="../slides/WADL2025_slides_invitedTalk.pdf">Slides</a>
+      <td>
+        <strong>Invited Talk:</strong> <em>Detecting and Diagnosing Errors in Replaying Archived Web Pages</em> by 
+        <a href="https://jingyzhu.github.io/">Jingyuan Zhu</a> and 
+        <a href="https://www.harsha.usc.edu/">Harsha V. Madhyastha</a><br>
+        <strong>Recording: </strong>
+        <span class="badge ia"><a href="https://archive.org/details/wadl-2025/WADL2025_ZhuAndMadhyastha.mp4" target="_blank" rel="noopener noreferrer">Internet Archive</a></span>
+        <span class="badge youtube"><a href="https://www.youtube.com/watch?v=HAy5as0hqt8" target="_blank" rel="noopener noreferrer">YouTube</a></span><br>
+        <span class="badge slides"><a href="../slides/WADL2025_slides_invitedTalk.pdf" target="_blank" rel="noopener noreferrer">Slides</a></span>
       </td>
     </tr>
     <tr>
