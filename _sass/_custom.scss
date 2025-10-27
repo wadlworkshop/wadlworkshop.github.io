@@ -22,4 +22,11 @@
     background-color: #0000bb;
     border: 1px outset #000099; 
 }
+.slides {
+    background-color: #009900;
+}
+.slides:hover {
+    background-color: #006600;
+    border: 1px outset #009900; 
+}
 .badge a {color: white; text-decoration: none;}
