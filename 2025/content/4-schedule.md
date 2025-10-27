@@ -16,7 +16,7 @@ nav: Schedule
   <tbody>
     <tr>
       <td><time data-iso="2025-09-15T09:09:00-06:00" date-format="long">9:00 am - 9:20 am</time></td>
-      <td>Opening Remarks and Technical Setup (<a href="https://docs.google.com/presentation/d/17LVSrXOaUV9m39J2K4TLafkN-6SnC35azs1CHsfGA78/edit?usp=sharing">slides</a>)
+      <td>Opening Remarks and Technical Setup (<a href="https://docs.google.com/presentation/d/17LVSrXOaUV9m39J2K4TLafkN-6SnC35azs1CHsfGA78/edit?usp=sharing">slides</a>)</td>
     </tr>
     <tr>
       <td>9:20 am - 9:40 am</td>
