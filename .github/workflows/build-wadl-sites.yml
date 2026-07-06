@@ -31,7 +31,7 @@ jobs:
       - name: Build 2026
         run: bundle exec jekyll build --source 2026 --destination _site/2026
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
