@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: page
-redirect_from: "/"
+#redirect_from: "/"
 ---
 <img src="../../assets/wadl2025.png" width="200" alt="WADL 2025 logo" style="display:block;margin-left:auto;  margin-right:auto;" />
 
