@@ -68,6 +68,7 @@ defaults:
     values:
       layout: "section"
     baseurl: "/2025"
+permalink: pretty
 # ignore stuff
 exclude: [README.md, LICENSE, assets/lib/README.md]
 # Build settings
