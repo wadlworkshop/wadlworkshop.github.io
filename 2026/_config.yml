@@ -62,13 +62,12 @@ timezone: America/Dallas
 # BUILD SETTINGS [usually leave as is]
 #
 # Defaults to simplify front matter
-defaults:
-  - scope:
-      path: "content"
-    values:
-      layout: "section"
-    baseurl: "/2026"
+title: "2026 Site"
+url: "https://wadlworkshop.github.io"
+baseurl: "/2026"
+
 permalink: pretty
+
 # ignore stuff
 exclude: [README.md, LICENSE, assets/lib/README.md]
 # Build settings
