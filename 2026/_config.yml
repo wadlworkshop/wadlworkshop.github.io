@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: WADL 2025
+title: WADL 2026
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -49,7 +49,7 @@ url:
 # baseurl is your github repository's name prefixed with a /
 baseurl:
 
-timezone: America/Chicago
+timezone: America/Dallas
 
 ##########
 # ROBOTS EXCLUDE [optional!]
