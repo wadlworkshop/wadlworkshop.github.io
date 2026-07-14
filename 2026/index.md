@@ -9,7 +9,7 @@ layout: page
 
 Held in conjunction with [ACM/IEEE Joint Conference on Digital Libraries (JCDL) 2026](https://2026.jcdl.org/).
 
-* October 13-15, 2026
+* October 16, 2026
 * Dallas, Texas, USA (hybrid)
 
 The Web Archiving and Digital Libraries Workshop (WADL) is back! Join us in-person or online at JCDL in Dallas this October!
