@@ -1,6 +1,6 @@
-This is th repo for the WADL 2025 Workshop at ACM Hypertext 2025. See [https://wadlworkshop.github.io](https://wadlworkshop.github.io/) for more info.
+This is th repo for the WADL Workshops from 2025 onward. See [https://wadlworkshop.github.io](https://wadlworkshop.github.io/) for more info.
 
-# Timeline
+# Timeline from WADL 2025 (for reference in 2026 planning)
 
 * July 6, 2025: Papers Due
 * July 6-27, 2025: Program Committee Reviews Submissions (3 weeks to review)
