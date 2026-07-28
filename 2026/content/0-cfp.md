@@ -71,7 +71,7 @@ Submit through <https://easychair.org/conferences/?conf=wadl2026>
 
 Each submission will be reviewed by members of the WADL program committee. Review criteria will include relevance to the workshop, clarity, significance, technical or practical soundness, and potential to stimulate useful discussion. 
 
-At least one author of each accepted contribution must register for the workshop and present the work either in person or online. [TBD: confirm registration requirement and whether remote presentation is available for every contribution.]
+At least one author of each accepted contribution must register for the workshop and present the work either in person or online. 
 
 ## Important dates
 
