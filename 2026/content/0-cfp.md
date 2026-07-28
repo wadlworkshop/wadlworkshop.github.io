@@ -60,10 +60,10 @@ WADL 2026 invites the following types of contributions:
   **Length:** 2+ pages
 
 - **Posters:** Early-stage work, works in progress, project overviews, or ideas that would benefit from focused discussion and feedback.  
-  **Length:** 2-pages
+  **Length:** ≤ 2 pages
 
 - **Demonstrations:** Tools, systems, collections, workflows, interfaces, or other practical contributions suitable for an interactive presentation.  
-  **Length:** 2-pages
+  **Length:** ≤ 2 pages
 
 Submissions should be written in English and submitted as PDF files. Authors are strongly encouraged to prepare submissions using the [ACM sigconf two-column proceedings format](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). LaTeX authors should use the acmart document class with the sigconf option; Word authors should use the corresponding ACM proceedings template. Using this format will help reviewers assess submissions consistently and will simplify preparation of accepted contributions. Submissions prepared in another clear, professional format will still be considered, provided they respect the applicable page limit.
 
