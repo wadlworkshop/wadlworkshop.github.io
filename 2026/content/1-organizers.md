@@ -13,4 +13,10 @@ The 2025 iteration of the WADL workshop was organized by:
 
 # Program Committee
 
-Coming soon.
+* Sumitra Duncan, The Frick Art Research Library at The Frick Collection
+* Andrea Goethals, National Library of New Zealand
+* Joshua Finnell, Colgate University
+* Shawn M. Jones, Google
+* Lauren Ko, University of North Texas Libraries
+* Nicholas Taylor, Los Alamos National Laboratory
+* Michele C. Weigle, Old Dominion University
