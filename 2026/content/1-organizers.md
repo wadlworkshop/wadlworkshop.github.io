@@ -18,5 +18,6 @@ The 2025 iteration of the WADL workshop was organized by:
 * Joshua Finnell, Colgate University
 * Shawn M. Jones, Google
 * Lauren Ko, University of North Texas Libraries
+* Michael L. Nelson, Old Dominion University
 * Nicholas Taylor, Los Alamos National Laboratory
 * Michele C. Weigle, Old Dominion University
