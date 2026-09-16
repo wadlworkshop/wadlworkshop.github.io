@@ -7,11 +7,11 @@ nav: Call for Papers
 
 The Web Archiving and Digital Libraries Workshop (WADL 2026) will be held in conjunction with the [2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2026)](https://2026.jcdl.org/).
 
-- **Date:** Friday, October 16, 2026
+- **Date:** Friday, October 13, 2026
 - **Format:** Full-day hybrid workshop
 - **Location:** Dallas, Texas, USA, and online
 - **Workshop website:** <https://wadlworkshop.github.io/2026/>
-- **Submission deadline:** September 16, 2026
+- **Submission deadline:** ~~September 16, 2026~~ September 23, 2026
 - **Submission portal:** <https://easychair.org/conferences/?conf=wadl2026>
 
 ## About the workshop
@@ -54,10 +54,10 @@ We particularly encourage submissions from practitioners, students, interdiscipl
 WADL 2026 invites the following types of contributions:
 
 - **Short papers:** Completed or ongoing research, case studies, system descriptions, evaluations, or lessons from practice.  
-  **Length:** 2+ pages
+  **Length:** 2-4 pages, not including references
 
 - **Position papers:** Well-supported perspectives, provocations, emerging challenges, or proposals for future research and community action.  
-  **Length:** 2+ pages
+  **Length:** 2-4 pages, not including references
 
 - **Posters:** Early-stage work, works in progress, project overviews, or ideas that would benefit from focused discussion and feedback.  
   **Length:** ≤ 2 pages
@@ -77,9 +77,9 @@ At least one author of each accepted contribution must register for the workshop
 
 All deadlines are at 11:59 p.m. Anywhere on Earth (UTC-12). 
 
-- **Submission deadline:** September 16, 2026
+- **Submission deadline:** ~~September 16, 2026~~
 - **Anticipated Author notification:** October 1, 2026
-- **Workshop:** October 16, 2026
+- **Workshop:** October 13, 2026
 
 ## Workshop format
 
