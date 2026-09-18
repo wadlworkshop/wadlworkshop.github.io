@@ -7,7 +7,7 @@ nav: Call for Papers
 
 The Web Archiving and Digital Libraries Workshop (WADL 2026) will be held in conjunction with the [2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2026)](https://2026.jcdl.org/).
 
-- **Date:** Friday, October 13, 2026
+- **Date:** Tuesday, October 13, 2026
 - **Format:** Full-day hybrid workshop
 - **Location:** Dallas, Texas, USA, and online
 - **Workshop website:** <https://wadlworkshop.github.io/2026/>
