@@ -77,7 +77,7 @@ At least one author of each accepted contribution must register for the workshop
 
 All deadlines are at 11:59 p.m. Anywhere on Earth (UTC-12). 
 
-- **Submission deadline:** ~~September 16, 2026~~
+- **Submission deadline:** ~~September 16, 2026~~ September 23, 2026
 - **Anticipated Author notification:** October 1, 2026
 - **Workshop:** October 13, 2026
 
