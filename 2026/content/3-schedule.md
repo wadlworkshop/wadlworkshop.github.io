@@ -1,7 +1,6 @@
 ---
-title: Schedule
+title: Workshop Schedule
 nav: Schedule
 ---
-# Workshop Schedule
 
 Coming soon.
