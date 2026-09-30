@@ -3,7 +3,7 @@ title: Organizers
 nav: Organizers
 ---
 
-# Organizing Committee
+## Organizing Committee
 
 The 2026 iteration of the WADL workshop is organized by:
 
@@ -11,7 +11,7 @@ The 2026 iteration of the WADL workshop is organized by:
 * Brenda Reyes Ayala, University of Alberta, reyesaya at ualberta dot ca
 
 
-# Program Committee
+## Program Committee
 
 * Sumitra Duncan, The Frick Art Research Library at The Frick Collection
 * Andrea Goethals, National Library of New Zealand
