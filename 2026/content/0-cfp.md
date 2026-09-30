@@ -1,9 +1,7 @@
 ---
-title: Call for Papers
+title: Call for Papers, Posters, and Demos
 nav: Call for Papers
 ---
-
-# Call for Papers, Posters, and Demos
 
 The Web Archiving and Digital Libraries Workshop (WADL 2026) will be held in conjunction with the [2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2026)](https://2026.jcdl.org/).
 
