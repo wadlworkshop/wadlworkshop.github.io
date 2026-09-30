@@ -3,7 +3,7 @@ title: Workshop History
 nav: History
 ---
 
-# Past WADL Workshops
+## Past WADL Workshops
 
 * [WADL 2025](https://wadlworkshop.github.io/2025/) @ [ACM Hypertext 2025](https://ht.acm.org/ht2025/), Chicago, Illinois, USA
 * [WADL 2023](https://fox.cs.vt.edu/wadl2023.html) @ [ACM/IEEE-CS JCDL 2023](https://2023.jcdl.org/), Santa Fe, New Mexico, USA
