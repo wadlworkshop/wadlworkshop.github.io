@@ -21,3 +21,4 @@ The 2026 iteration of the WADL workshop is organized by:
 * Michael L. Nelson, Old Dominion University
 * Nicholas Taylor, Los Alamos National Laboratory
 * Michele C. Weigle, Old Dominion University
+* Laura Wrubel, Stanford University Libraries
