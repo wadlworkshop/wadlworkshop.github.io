@@ -4,11 +4,11 @@ nav: Schedule
 ---
 
 **Web Archiving and Digital Libraries Workshop @ JCDL 2026**  
-**Tuesday, October 13, 2026 | 9:00 a.m.–5:00 p.m.**  
-**Frisco 4 | Dallas, Texas | Hybrid**  
-**All times Central Daylight Time (CDT, UTC−5)**
+* Tuesday, October 13, 2026 | 9:00 a.m.–5:00 p.m.
+* Frisco 4 | Dallas, Texas | Hybrid
+* All times Central Daylight Time (CDT, UTC−5)
 
-## Session 1: Building Collections and Making Them Interoperable
+### Session 1: Building Collections and Making Them Interoperable
 
 Facilitator: Mat Kelly
 | Time | Activity |
@@ -21,7 +21,7 @@ Facilitator: Mat Kelly
 | 10:15–10:30 | Discussion: **What makes a collection reusable?** |
 | 10:30–11:00 | **Conference break** |
 
-## Session 2: Preserving Evidence and Validating Discovery
+### Session 2: Preserving Evidence and Validating Discovery
 
 Facilitator: Brenda Reyes Ayala
 | Time | Activity |
@@ -32,7 +32,7 @@ Facilitator: Brenda Reyes Ayala
 | 12:15–12:30 | Discussion: **When can we trust an archival search result or AI answer?** |
 | 12:30–1:30 | **Lunch** |
 
-## Session 3: Poster and Demonstration Exchange
+### Session 3: Poster and Demonstration Exchange
 
 Facilitator: Brenda Reyes Ayala
 | Time | Activity |
@@ -44,7 +44,7 @@ Facilitator: Brenda Reyes Ayala
 | 3:00–3:30 | **Conference break** |
 
 
-## Session 4: A Shared Agenda for Web Archiving and Digital Libraries
+### Session 4: A Shared Agenda for Web Archiving and Digital Libraries
 
 Facilitator: Mat Kelly
 | Time | Activity |
