@@ -7,6 +7,7 @@
 
 ## Session 1: Building Collections and Making Them Interoperable
 
+Facilitator: Mat Kelly
 | Time | Activity |
 |---|---|
 | 9:00–9:15 | Welcome, participant introductions, and workshop goals |
@@ -19,6 +20,7 @@
 
 ## Session 2: Preserving Evidence and Validating Discovery
 
+Facilitator: Brenda Reyes Ayala
 | Time | Activity |
 |---|---|
 | 11:00–11:25 | **Archiving What Chatbots Cite: Preserving the Web Behind AI Answers** — Paper #9718 |
@@ -29,16 +31,19 @@
 
 ## Session 3: Poster and Demonstration Exchange
 
+Facilitator: Brenda Reyes Ayala
 | Time | Activity |
 |---|---|
-| 1:30–2:00 | Poster exchange: **Building a National Archive of Government Social Media** — #3744 |
-| 2:00–2:30 | Poster exchange: **Automating the Assessment of Cultural Value for Digital Software Libraries** — #5270 |
-| 2:30–3:00 | **Cross-paper design clinic:** Apply lessons from the presentations to a concrete collection or interface challenge |
+| 1:30–1:55 | Poster exchange: **Building a National Archive of Government Social Media** — #3744 |
+| 1:55–2:25 | Poster exchange: **Automating the Assessment of Cultural Value for Digital Software Libraries** — #5270 |
+| 2:25–2:50 | **Cross-paper design clinic:** Apply lessons from the presentations to a concrete collection or interface challenge |
+|2:50-3:00 | Lightning talks, anyone can participate and contribute what they are working on, their thoughts, etc | 
 | 3:00–3:30 | **Conference break** |
 
 
 ## Session 4: A Shared Agenda for Web Archiving and Digital Libraries
 
+Facilitator: Mat Kelly
 | Time | Activity |
 |---|---|
 | 3:30–3:40 | Introduce working-group questions and choose groups |
