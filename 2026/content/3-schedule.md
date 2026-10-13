@@ -10,6 +10,7 @@ nav: Schedule
 
 * Use **#WADL2026** on social media
 * [Shared notes document](https://docs.google.com/document/d/1qrE0I5Fex7vxntFeFVw1kmY0VqWyMXdA4JaJXlneDNI/edit?usp=sharing)
+* [Sign up](https://docs.google.com/document/d/1qrE0I5Fex7vxntFeFVw1kmY0VqWyMXdA4JaJXlneDNI/edit?pli=1&tab=t.0#bookmark=id.4q88fp5tclp) for a brief lightning talk! (no slides required)
 
 Tuesday, 9:00 am - 5:00 pm  
 Frisco 4 | Dallas, Texas | Hybrid | https://drexel.zoom.us/my/wadl2026
