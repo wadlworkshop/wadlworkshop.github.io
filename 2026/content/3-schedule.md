@@ -81,15 +81,11 @@ Frisco 4 | Dallas, Texas | Hybrid
       <td>Poster exchange: <em>Building a National Archive of Government Social Media</em> — #3744</td>
     </tr>
     <tr>
-      <td>1:55 pm - 2:25 pm</td>
+      <td>1:55 pm - 2:20 pm</td>
       <td>Poster exchange: <em>Automating the Assessment of Cultural Value for Digital Software Libraries</em> — #5270</td>
     </tr>
     <tr>
-      <td>2:25 pm - 2:50 pm</td>
-      <td><em>Cross-paper design clinic:</em> Apply lessons from the presentations to a concrete collection or interface challenge</td>
-    </tr>
-    <tr>
-      <td>2:50 pm - 3:00 pm</td>
+      <td>2:20 pm - 3:00 pm</td>
       <td>Lightning talks, anyone can participate and contribute what they are working on, their thoughts, etc</td>
     </tr>
     <tr>
