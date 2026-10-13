@@ -8,8 +8,10 @@ nav: Schedule
 
 **Web Archiving and Digital Libraries Workshop @ JCDL 2026**
 
+Use **#WADL2026** on social media
+
 Tuesday, 9:00 am - 5:00 pm  
-Frisco 4 | Dallas, Texas | Hybrid
+Frisco 4 | Dallas, Texas | Hybrid | https://drexel.zoom.us/my/wadl2026
 
 <table class="table table-striped table-bordered">
   <thead>
