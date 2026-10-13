@@ -125,7 +125,7 @@ Frisco 4 | Dallas, Texas | Hybrid | https://drexel.zoom.us/my/wadl2026
 # Accepted Contributions
 
 
-* Harmonizing Heterogeneous WARC Contributions: Normalization Lessons from the 2024 End of Term Web Archive (Sawood Alam and Mark Phillips) (<a href="../2026/papers/wadl2026_paper__1748.pdf">PDF</a>)
+* Harmonizing Heterogeneous WARC Contributions: Normalization Lessons from the 2024 End of Term Web Archive (Sawood Alam and Mark Phillips) (<a href="../papers/wadl2026_paper__1748.pdf">PDF</a>)
 * Building a National Archive of Government Social Media (Jake Bickford and Claire Newing) (<a href="../papers/wadl2026_paper__3744.pdf">PDF</a>)
 * Automating the Assessment of Cultural Value for Digital Software Libraries (Lars Florian Meiendresch and Michael Goedicke) (<a href="../papers/wadl2026_paper__5270.pdf">PDF</a>)
 * Archiving What Chatbots Cite: Preserving the Web Behind AI Answers (Sawood Alam, Matt Blumberg and Mark Graham) (<a href="../papers/wadl2026_paper__9718.pdf">PDF</a>)
