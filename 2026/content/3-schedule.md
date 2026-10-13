@@ -125,5 +125,5 @@ Frisco 4 | Dallas, Texas | Hybrid
 * Automating the Assessment of Cultural Value for Digital Software Libraries (Lars Florian Meiendresch and Michael Goedicke) (<a href="../papers/wadl2026_paper__5270.pdf">PDF</a>)
 * Archiving What Chatbots Cite: Preserving the Web Behind AI Answers (Sawood Alam, Matt Blumberg and Mark Graham) (<a href="../papers/wadl2026_paper__9718.pdf">PDF</a>)
 * Client-Side Built-in Browser AI for Digital Libraries and Archives - Case Studies of the Query Shaper and Local Chat Web Components (Sawood Alam) (<a href="../papers/wadl2026_paper__8730.pdf">PDF</a>)
-* End-to-End Open Digital Archiving Framework for Regional Language Literary Heritage: Lessons from Kaniyam Foundation (Anwar Latiff) (<a href="../papers/wadl2026_paper__9765.pdf">PDF</a>)
+* End-to-End Open Digital Archiving Framework for Regional Language Literary Heritage: Lessons from Kaniyam Foundation (Anwar Latiff) (<a href="../papers/wadl2026_paper__9761.pdf">PDF</a>)
 * Validating the Tails: Domain-Dependent Semantic-Axis Retrieval in Historical News (Yufei Zhu) (<a href="../papers/wadl2026_paper__3361.pdf">PDF</a>)
