@@ -121,9 +121,9 @@ Frisco 4 | Dallas, Texas | Hybrid
 # Accepted Contributions
 
 * Harmonizing Heterogeneous WARC Contributions: Normalization Lessons from the 2024 End of Term Web Archive (Sawood Alam and Mark Phillips) (<a href="../papers/WADL2026_paper_1748.pdf">PDF</a>)
-* Building a National Archive of Government Social Media (Jake Bickford and Claire Newing) (<a href="../papers/WADL2025_paper_3744.pdf">PDF</a>)
-* Automating the Assessment of Cultural Value for Digital Software Libraries (Lars Florian Meiendresch and Michael Goedicke) (<a href="../papers/WADL2025_paper_5270.pdf">PDF</a>)
-* Archiving What Chatbots Cite: Preserving the Web Behind AI Answers (Sawood Alam, Matt Blumberg and Mark Graham) (<a href="../papers/WADL2025_paper_9718.pdf">PDF</a>)
-* Client-Side Built-in Browser AI for Digital Libraries and Archives - Case Studies of the Query Shaper and Local Chat Web Components (Sawood Alam) (<a href="../papers/WADL2025_paper_8730.pdf">PDF</a>)
-* End-to-End Open Digital Archiving Framework for Regional Language Literary Heritage: Lessons from Kaniyam Foundation (Anwar Latiff) (<a href="../papers/WADL2025_paper_9765.pdf">PDF</a>)
-* Validating the Tails: Domain-Dependent Semantic-Axis Retrieval in Historical News (Yufei Zhu) (<a href="../papers/WADL2025_paper_3361.pdf">PDF</a>)
+* Building a National Archive of Government Social Media (Jake Bickford and Claire Newing) (<a href="../papers/WADL2026_paper_3744.pdf">PDF</a>)
+* Automating the Assessment of Cultural Value for Digital Software Libraries (Lars Florian Meiendresch and Michael Goedicke) (<a href="../papers/WADL2026_paper_5270.pdf">PDF</a>)
+* Archiving What Chatbots Cite: Preserving the Web Behind AI Answers (Sawood Alam, Matt Blumberg and Mark Graham) (<a href="../papers/WADL2026_paper_9718.pdf">PDF</a>)
+* Client-Side Built-in Browser AI for Digital Libraries and Archives - Case Studies of the Query Shaper and Local Chat Web Components (Sawood Alam) (<a href="../papers/WADL2026_paper_8730.pdf">PDF</a>)
+* End-to-End Open Digital Archiving Framework for Regional Language Literary Heritage: Lessons from Kaniyam Foundation (Anwar Latiff) (<a href="../papers/WADL2026_paper_9765.pdf">PDF</a>)
+* Validating the Tails: Domain-Dependent Semantic-Axis Retrieval in Historical News (Yufei Zhu) (<a href="../papers/WADL2026_paper_3361.pdf">PDF</a>)
