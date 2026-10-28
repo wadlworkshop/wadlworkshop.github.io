@@ -31,7 +31,7 @@ Frisco 4 | Dallas, Texas | Hybrid
     </tr>
     <tr>
       <td>9:15 am - 9:40 am</td>
-      <td><strong>Paper:</strong> <em>Harmonizing Heterogeneous WARC Contributions: Normalization Lessons from the 2024 End of Term Web Archive</em> by Sawood Alam and Mark Phillips<br>Contribution #1748</td>
+      <td><strong>Paper:</strong> <em>Harmonizing Heterogeneous WARC Contributions: Normalization Lessons from the 2024 End of Term Web Archive</em> by Sawood Alam and Mark Phillips<br>Contribution #1748 <a href="../../slides/wadl-2026-EOT-Normalization.pdf">(Slides)</a></td>
     </tr>
     <tr>
       <td>9:40 am - 10:05 am</td>
