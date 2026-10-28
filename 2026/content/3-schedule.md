@@ -39,7 +39,7 @@ Frisco 4 | Dallas, Texas | Hybrid
     </tr>
     <tr>
       <td>10:05 am - 10:10 am</td>
-      <td><strong>Poster spotlight:</strong> <em>Building a National Archive of Government Social Media</em> by Jake Bickford and Claire Newing<br>Contribution #3744 <a href="">(Poster)</a></td>
+      <td><strong>Poster spotlight:</strong> <em>Building a National Archive of Government Social Media</em> by Jake Bickford and Claire Newing<br>Contribution #3744 <a href="../../slides/WADL_2026_UK_social_media_v3.pdf">(Poster)</a></td>
     </tr>
     <tr>
       <td>10:10 am - 10:15 am</td>
