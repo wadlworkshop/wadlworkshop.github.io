@@ -58,7 +58,7 @@ Frisco 4 | Dallas, Texas | Hybrid
     </tr>
     <tr>
       <td>11:00 am - 11:25 am</td>
-      <td><strong>Paper:</strong> <em>Archiving What Chatbots Cite: Preserving the Web Behind AI Answers</em> by Sawood Alam, Matt Blumberg and Mark Graham<br>Contribution #9718 <a href="../../slides/AMT-WADL-2026.pdf" (Slides) </a></td>
+      <td><strong>Paper:</strong> <em>Archiving What Chatbots Cite: Preserving the Web Behind AI Answers</em> by Sawood Alam, Matt Blumberg and Mark Graham<br>Contribution #9718 <a href="../../slides/AMT-WADL-2026.pdf">(Slides) </a></td>
     </tr>
     <tr>
       <td>11:25 am - 11:50 am</td>
