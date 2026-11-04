@@ -66,7 +66,7 @@ Frisco 4 | Dallas, Texas | Hybrid
     </tr>
     <tr>
       <td>11:50 am - 12:15 pm</td>
-      <td><strong>Live demonstration:</strong> <em>Client-Side Built-in Browser AI for Digital Libraries and Archives: Case Studies of the Query Shaper and Local Chat Web Components</em> by Sawood Alam<br>Contribution #8730</td>
+      <td><strong>Live demonstration:</strong> <em>Client-Side Built-in Browser AI for Digital Libraries and Archives: Case Studies of the Query Shaper and Local Chat Web Components</em> by Sawood Alam<br>Contribution #8730 <a href="https://internetarchive.github.io/query-shaper/">Demo: Query Shaper</a>, <a href="https://internetarchive.github.io/local-chat/">Demo: Local Chat</a></td>
     </tr>
     <tr>
       <td>12:15 pm - 12:30 pm</td>
