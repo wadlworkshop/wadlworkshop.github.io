@@ -62,7 +62,7 @@ Frisco 4 | Dallas, Texas | Hybrid
     </tr>
     <tr>
       <td>11:25 am - 11:50 am</td>
-      <td><strong>Paper:</strong> <em>Validating the Tails: Domain-Dependent Semantic-Axis Retrieval in Historical News</em> by Yufei Zhu<br>Contribution #3361</td>
+      <td><strong>Paper:</strong> <em>Validating the Tails: Domain-Dependent Semantic-Axis Retrieval in Historical News</em> by Yufei Zhu<br>Contribution #3361 <a href="../../slides/WADL2026_YufeiZhu_ValidatingTheTails.pdf">(Slides)</a></td>
     </tr>
     <tr>
       <td>11:50 am - 12:15 pm</td>
